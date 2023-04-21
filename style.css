@@ -82,5 +82,5 @@ button::before{
 
 .btn4:hover::before{
     width: 100%;
-    height: 430%;
+    height: 400%;
 }
